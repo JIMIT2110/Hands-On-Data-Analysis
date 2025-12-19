@@ -25,7 +25,7 @@ The dashboard provides actionable insights through interactive visuals and busin
 - `data/` → Sample dataset (if applicable)
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ## 🔍 Business Insights
 - Identified key performance trends
